@@ -31,7 +31,7 @@ if(isset($_POST['add_to_cart'])){
 <div class="topnav" id="myTopnav">
 	  <a href="shop.php">Shop</a>
 	  <a href="cart.php">Cart</a>
-	  <a href="home.php">LogOut</a>
+	  <a href="index.php">LogOut</a>
 </div>
 <body>
 	<div class="container">
